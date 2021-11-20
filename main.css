@@ -1,0 +1,118 @@
+.light{
+	background-color:#e9e9e9;
+}
+.dark{
+	background-color:#141414;
+}
+.light-text{
+	color:#e9e9e9;
+}
+.micon{
+	height:21vh;
+}
+.st{
+	color:#999;
+}
+.row-lg ft{
+	width:auto
+}
+.dbut{
+	background-color: transparent;
+	border:2px solid #000;
+	color:#000;
+	border-radius:90px;
+	text-align:center;
+	width:auto;
+	padding:3px 5px;
+}
+.dbutotl{
+	padding:5px;
+	}
+.blc{
+	background-color:#191919;
+	}
+.prcl{
+	background-color:#7665d5
+}
+.iconb{
+	width:80px;
+	}
+.aligncen{
+	text-align:center
+}
+.prcl-text{
+	color:#7665d5
+}
+.yel-text{
+	color:#c6d465;
+}
+.vlct{
+	padding:5px 3px;
+}
+.tweet,.git{
+	height:30px;
+}
+.tweet:hover{
+	background: url(images/twitter-cl-icon.png);
+	background-repeat:no-repeat;
+	background-size:33px 33px;
+}
+.git:hover{
+	background-image: url(images/GitHub%20cl-Mark.png);
+	background-repeat:no-repeat;
+	background-size:33px 33px;
+}
+.prplig{
+	background-color:#e1ddfa
+}
+.conlist{
+	padding: 13px 13px;
+	color:#999;
+	-webkit-transition: background-color 0.5s; /* For Safari 3.1 to 6.0 */
+    transition: background-color 0.5s;
+	
+}
+.conlist:hover{
+	color:#222;
+	font-family: Roboto-Bold;
+}
+.rowdis{
+	background-color:#C6BFF1;
+	color: #161616;
+}
+.auto{
+	height:auto;
+	}	
+.item-con{
+	padding:8px 0px; 
+	
+	}
+.fix{
+	position:fixed;
+	z-index:1000;
+	}
+.cont{
+	width:100%;
+	padding:0px;
+}
+.grey{
+	background-color:#3C3C3C;
+	color:#fff!important;
+}
+.l-grey{
+	background-color:#e9e9e9;
+	}
+.ner{
+	height:1500px;
+	}
+.half{
+	width:50%!important;
+}
+.dm{
+	height:auto;
+	}
+/* These needed for active arrow */
+a.active {
+    box-shadow: 0px 0px 0px 2px #ddd;
+	color:#000;
+}
